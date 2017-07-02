@@ -22,7 +22,7 @@ import re
 __version__ = "0.1"
 __all__ = ["SimpleHTTPRequestHandler"]
 __author__ = "kion"
-__home_page__ = "http://li2z.cn/"
+__home_page__ = "https://github.com/NextOneWxf"
 
 try:
     from cStringIO import StringIO
