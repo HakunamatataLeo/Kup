@@ -2,7 +2,7 @@
 
 """Simple HTTP Server With Upload.
 
-https://github.com/NextOneWxf/Kup/Kup.py
+https://github.com/NextOneWxf/Kup/blob/master/Kup.py
 
 This module builds on BaseHTTPServer by implementing the standard GET
 and HEAD requests in a fairly straightforward manner.
